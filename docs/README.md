@@ -2,7 +2,7 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Sonia González Martín
 profile: /profile.jpg
 
 socials:
@@ -17,7 +17,7 @@ socials:
     link: https://www.instagram.com
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
+bio: Mongola
 email: harry (at) hogwarts (dot) edu
 ---
 
@@ -25,9 +25,7 @@ email: harry (at) hogwarts (dot) edu
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
-
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+Especialista en Ilustración/Maquetación, Animación/Motion Graphics, Modelado 3D y Diseño 2D/3D.
 
 
 ## News
